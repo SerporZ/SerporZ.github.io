@@ -8,7 +8,11 @@ nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
+Aquí se presentan mis proyectos académicos y técnicos relacionados con
+sistemas embebidos, automatización industrial, IoT y diseño electrónico.
 
+Los proyectos se documentan con sus objetivos, tecnologías, estado y
+recursos disponibles.
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
